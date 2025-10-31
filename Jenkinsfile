@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        APP_ID = "" // Will be dynamically set
+        APP_ID = "e_6DMiDZ0X1zOurfc4xCW" // Will be dynamically set
     }
 
     stages {
